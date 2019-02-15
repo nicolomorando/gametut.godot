@@ -9,7 +9,7 @@ E' richiesto il download dell'editor di Godot disponibile sul seguente link.
 In caso servisse, ecco qua il docs dell'engine.
 [/GodotEngine/docs](https://docs.godotengine.org/en/3.0/)
 
-Inoltre è richiesta una conoscenza di base nel linguaggio dinamico di Godot (GDScript).
+Inoltre è richiesta una conoscenza di base nel linguaggio di Godot (GDScript).
 Linguaggio di programmazione ad oggetti, Dinamico e semplice da usare,
 oltre al fatto che non richiede compilazione nella run test.
 [/GodotEngine/gdscript](https://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_advanced.html)
