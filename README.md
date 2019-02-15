@@ -32,7 +32,7 @@ Progetto in beta attualmente alla release 1.0.7
 
 ## Author
 
-* **Morando Nicol** Script, texture e scene [GitHub/MorandoNicolò](https://github.com/nicolomorando)
+* **Morando Nicolò** Script, texture e scene [GitHub/MorandoNicolò](https://github.com/nicolomorando)
 
 ## License-MIT
 
