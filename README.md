@@ -1,4 +1,4 @@
-# GameTut - Godot Engine
+# GameTut - Godot Engine 👾 
 
 Creazione di un videogioco "Platformer" in Godot 3.0.6
 
@@ -28,11 +28,21 @@ Se vuoi tenerti informato su godot e contribuire a vari progetti, entra nel cana
 
 ## Versione
 
-Progetto in beta attualmente alla release 1.0.7
+Progetto in beta attualmente alla release 1.0.8
 
 ## Author
 
 * **Morando Nicolò** Script, texture e scene [GitHub/MorandoNicolò](https://github.com/nicolomorando)
+
+## To-Do
+
+* **Nemici + Spawner
+* **Movimento attacco
+* **Background shape
+* **Nuove texture per Enviroment e Nemici
+* **Menu + Menu di Pausa
+* **CheckPoints
+* **Aggiunta di livelli
 
 ## License-MIT
 
