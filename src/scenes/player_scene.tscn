@@ -70,9 +70,9 @@ tracks/0/keys = {
 "values": [ Rect2( 0, 0, 64, 64 ), Rect2( 64, 0, 64, 64 ), Rect2( 128, 0, 64, 64 ), Rect2( 64, 0, 64, 64 ) ]
 }
 
-[node name="Player" type="KinematicBody2D"]
+[node name="Player" type="KinematicBody2D" index="0"]
 
-position = Vector2( 1.75, -0.75 )
+position = Vector2( 1, 0.75 )
 input_pickable = false
 collision_layer = 1
 collision_mask = 1
@@ -90,7 +90,7 @@ shape = SubResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="." index="2"]
 
-position = Vector2( -2.5, -5.5 )
+position = Vector2( -1.75, -7.75 )
 texture = ExtResource( 2 )
 region_enabled = true
 region_rect = Rect2( 0, 64, 64, 64 )
