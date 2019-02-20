@@ -1,6 +1,6 @@
 # GameTut - Godot Engine 👾 
 
-Creazione di un videogioco "Platformer" in Godot 3.0.6
+Creazione di un videogioco "Platformer" in Godot 3.0.6, puoi trovare il mio tutorial a questo [Docs](https://docs.google.com/document/d/16chVS62Q0zbGRgZFrG-yDrZ11vdsfA1oKk0G9wroP4w/edit?usp=sharing)
 
 ## Getting Started
 
